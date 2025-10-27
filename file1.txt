@@ -1,0 +1,2 @@
+This is firest text file
+git is easy to use
